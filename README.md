@@ -1,2 +1,2 @@
-# get-instagram-profile-detail-with-puppeteer
-Get Instagram profile detail with Puppeteer
+# get-instagram-account-profile-detail-with-puppeteer
+Get Instagram account profile detail with Puppeteer
